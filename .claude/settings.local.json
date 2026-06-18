@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.tradingview.com)",
+      "WebSearch",
+      "Bash(open:*)",
+      "WebFetch(domain:finviz.com)"
+    ]
+  }
+}
